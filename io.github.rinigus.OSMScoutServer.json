@@ -263,7 +263,7 @@
                 {
                     "type": "git",
                     "url": "https://github.com/rinigus/osmscout-server.git",
-                    "commit": "1e8270bd4965e25debd72e2d0f8d02f98ea9b4ac"
+                    "commit": "2748b3f45b4ce5b748cdd31e0e6b714742888b9f"
                 }
             ]
         }
